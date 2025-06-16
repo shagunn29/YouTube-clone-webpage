@@ -24,7 +24,7 @@ Check out the live version of this project here:
 ## 📁 Project Structure
 
 ```bash
-youtube-clone/
+YouTube-clone-webpage/
 ├── index.html
 ├── styles/
 │   ├── general.css
