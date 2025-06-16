@@ -15,18 +15,5 @@ This is a simple webpage I created to practice and strengthen my HTML and CSS sk
 - Responsive layout basics using Flexbox
 - Organizing files into folders (HTML, CSS, images)
 
-## 📁 Project Structure
 
-youtube-clone/
-
-├── codes/
-│   ├── initial.html
-│   └── final.html
-├── styles/
-│   ├── general.css
-│   ├── header.css
-│   ├── sidebar.css
-│   └── main.css
-├── icons/
-├── channels/
-└── thumbnails/
+<pre> ## 📁 Project Structure ``` youtube-clone/ ├── codes/ │ ├── initial.html │ └── final.html ├── styles/ │ ├── general.css │ ├── header.css │ ├── sidebar.css │ └── main.css ├── icons/ ├── channels/ └── thumbnails/ ``` </pre>
