@@ -18,7 +18,7 @@ This is a simple webpage I created to practice and strengthen my HTML and CSS sk
 ## 🌐 Live Demo
 
 Check out the live version of this project here:  
-[**🔗 View Live**](https://shagunn29.github.io/YouTube-clone-webpage)  
+[**🔗 View Live**](https://shagunn29.github.io/YouTube-clone-webpage/)  
 
 
 ## 📁 Project Structure
